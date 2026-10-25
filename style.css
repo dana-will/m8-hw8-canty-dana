@@ -165,9 +165,10 @@ footer {
   main > article img {
     float: none;
     margin: 0 40px;
+    max-width: 300px;
   }
   footer {
-    padding: 18px 0;
+    padding: 10px 0;
   }
   body{
     background-image: 100%;
